@@ -232,12 +232,7 @@ Paper claim: *"Mean inter-agent MI = 0.085 confirms agents capture orthogonal in
 | NB5: Thermodynamic fusion, ablation, MI analysis | ✅ Done |
 | NB6: Baselines, cross-dataset, Tables 2–6 | ✅ Done |
 | NB7: LaTeX paper draft with real numbers | ✅ Done |
-| Fix Uranus Gemini fallbacks (stricter JSON prompt) | ⏳ Optional |
-| SOLAR fusion on FakeNewsNet (cross-dataset fusion result) | ⏳ Optional |
-| Review and finalize LaTeX paper draft | ⏳ Next step |
-| Write cover letter referencing Agentic Web CFP themes | ⏳ Next step |
-| Push clean `.py` code to GitHub | ⏳ Next step |
-| Submit via ACM at https://tweb.acm.org | **Deadline: Sep 30, 2026** |
+
 
 ---
 
